@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118832cb-19c7-48a6-a7d6-ad5ad56c446e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/tests.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,19 +51,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="77" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="77" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/framework/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
@@ -84,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snippets/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -132,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippets/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="228">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -166,9 +157,9 @@
         <option value="$PROJECT_DIR$/framework/settings.py" />
         <option value="$PROJECT_DIR$/snippets/models.py" />
         <option value="$PROJECT_DIR$/snippets/serializers.py" />
+        <option value="$PROJECT_DIR$/framework/urls.py" />
         <option value="$PROJECT_DIR$/snippets/views.py" />
         <option value="$PROJECT_DIR$/snippets/urls.py" />
-        <option value="$PROJECT_DIR$/framework/urls.py" />
       </list>
     </option>
   </component>
@@ -272,7 +263,7 @@
     <frame x="1440" y="-264" width="2560" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11993646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11993646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,7 +277,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32981133" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32981133" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -346,10 +337,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/framework/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/snippets/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -358,20 +359,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#633#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
